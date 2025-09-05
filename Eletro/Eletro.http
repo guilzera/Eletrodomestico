@@ -1,0 +1,6 @@
+@Eletro_HostAddress = http://localhost:5062
+
+GET {{Eletro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

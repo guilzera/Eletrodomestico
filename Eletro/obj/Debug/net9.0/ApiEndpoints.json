@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Eletro.Controllers.HomeController",
+    "Method": "Get",
+    "RelativePath": "v1/Home",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

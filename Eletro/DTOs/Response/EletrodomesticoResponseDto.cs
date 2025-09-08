@@ -9,8 +9,5 @@
         public string NumeroSerie { get; set; } = string.Empty;
 
         public int ClienteId { get; set; }
-
-        public ClienteResponseDto? Cliente { get; set; }
-
     }
 }

@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Dev\\Eletro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\dtos\\request\\eletrodomesticorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\dtos\\request\\eletrodomesticorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\dtos\\response\\eletrodomesticoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\dtos\\response\\eletrodomesticoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\migrations\\20250908190706_createddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\migrations\\20250908190706_createddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\dtos\\response\\clienteresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\dtos\\response\\clienteresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\services\\implementations\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\services\\implementations\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\dtos\\request\\clienterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\dtos\\request\\clienterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,53 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EletrodomesticoResponseDto.cs",
-              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\DTOs\\Response\\EletrodomesticoResponseDto.cs",
-              "RelativeDocumentMoniker": "Eletro\\DTOs\\Response\\EletrodomesticoResponseDto.cs",
-              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\DTOs\\Response\\EletrodomesticoResponseDto.cs",
-              "RelativeToolTip": "Eletro\\DTOs\\Response\\EletrodomesticoResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Title": "20250908190706_CreatedDto.cs",
+              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\Migrations\\20250908190706_CreatedDto.cs",
+              "RelativeDocumentMoniker": "Eletro\\Migrations\\20250908190706_CreatedDto.cs",
+              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\Migrations\\20250908190706_CreatedDto.cs",
+              "RelativeToolTip": "Eletro\\Migrations\\20250908190706_CreatedDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:55:16.464Z",
+              "WhenOpened": "2025-09-08T19:07:07.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EletrodomesticoRequestDto.cs",
-              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\DTOs\\Request\\EletrodomesticoRequestDto.cs",
-              "RelativeDocumentMoniker": "Eletro\\DTOs\\Request\\EletrodomesticoRequestDto.cs",
-              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\DTOs\\Request\\EletrodomesticoRequestDto.cs",
-              "RelativeToolTip": "Eletro\\DTOs\\Request\\EletrodomesticoRequestDto.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\Program.cs",
+              "RelativeDocumentMoniker": "Eletro\\Program.cs",
+              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\Program.cs",
+              "RelativeToolTip": "Eletro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:53:01.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClienteResponseDto.cs",
-              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\DTOs\\Response\\ClienteResponseDto.cs",
-              "RelativeDocumentMoniker": "Eletro\\DTOs\\Response\\ClienteResponseDto.cs",
-              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\DTOs\\Response\\ClienteResponseDto.cs",
-              "RelativeToolTip": "Eletro\\DTOs\\Response\\ClienteResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:51:00.391Z",
+              "WhenOpened": "2025-09-08T17:18:33.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ClienteRequestDto.cs",
-              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\DTOs\\Request\\ClienteRequestDto.cs",
-              "RelativeDocumentMoniker": "Eletro\\DTOs\\Request\\ClienteRequestDto.cs",
-              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\DTOs\\Request\\ClienteRequestDto.cs",
-              "RelativeToolTip": "Eletro\\DTOs\\Request\\ClienteRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Eletro\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Eletro\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:47:11.79Z",
+              "WhenOpened": "2025-09-08T17:04:43.514Z",
               "EditorCaption": ""
             },
             {
@@ -96,22 +79,22 @@
               "RelativeDocumentMoniker": "Eletro\\Services\\IClienteService.cs",
               "ToolTip": "C:\\Dev\\Eletro\\Eletro\\Services\\IClienteService.cs",
               "RelativeToolTip": "Eletro\\Services\\IClienteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:28:57.103Z",
+              "WhenOpened": "2025-09-08T13:55:17.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\Program.cs",
-              "RelativeDocumentMoniker": "Eletro\\Program.cs",
-              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\Program.cs",
-              "RelativeToolTip": "Eletro\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\Services\\Implementations\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Eletro\\Services\\Implementations\\ClienteService.cs",
+              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\Services\\Implementations\\ClienteService.cs",
+              "RelativeToolTip": "Eletro\\Services\\Implementations\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:09:56.955Z",
+              "WhenOpened": "2025-09-08T13:50:23.497Z",
               "EditorCaption": ""
             }
           ]

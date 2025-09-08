@@ -138,6 +138,7 @@ C:\Dev\Eletro\Eletro\obj\Debug\net9.0\Eletro.AssemblyInfo.cs
 C:\Dev\Eletro\Eletro\obj\Debug\net9.0\Eletro.csproj.CoreCompileInputs.cache
 C:\Dev\Eletro\Eletro\obj\Debug\net9.0\Eletro.MvcApplicationPartsAssemblyInfo.cs
 C:\Dev\Eletro\Eletro\obj\Debug\net9.0\Eletro.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Eletro\Eletro\obj\Debug\net9.0\Eletro.sourcelink.json
 C:\Dev\Eletro\Eletro\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Dev\Eletro\Eletro\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Dev\Eletro\Eletro\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -152,4 +153,3 @@ C:\Dev\Eletro\Eletro\obj\Debug\net9.0\refint\Eletro.dll
 C:\Dev\Eletro\Eletro\obj\Debug\net9.0\Eletro.pdb
 C:\Dev\Eletro\Eletro\obj\Debug\net9.0\Eletro.genruntimeconfig.cache
 C:\Dev\Eletro\Eletro\obj\Debug\net9.0\ref\Eletro.dll
-C:\Dev\Eletro\Eletro\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

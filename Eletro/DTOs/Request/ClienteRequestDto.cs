@@ -1,5 +1,4 @@
-﻿using Eletro.Models;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace Eletro.DTOs.Request
 {

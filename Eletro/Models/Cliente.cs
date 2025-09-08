@@ -12,6 +12,5 @@
 
         public string Endereco { get; set; } = string.Empty;
 
-        public List<Eletrodomestico>? Eletrodomesticos { get; set; }
     }
 }

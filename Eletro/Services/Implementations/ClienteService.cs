@@ -1,35 +1,98 @@
-﻿using Eletro.Models;
+﻿using Eletro.DTOs.Request;
+using Eletro.DTOs.Response;
+using Eletro.Models;
+using Eletro.Repositories;
 
 namespace Eletro.Services.Implementations
 {
     public class ClienteService : IClienteService
     {
+        private readonly IClienteRepository _repository;
 
-
-
-        public Task CreateAsync(Cliente cliente)
+        public ClienteService(IClienteRepository repository)
         {
-            throw new NotImplementedException();
+            _repository = repository;
+        } 
+
+        public async Task<IEnumerable<ClienteResponseDto>> GetAllAsync()
+        {
+            var clientes = await _repository.GetAllAsync();
+
+            return clientes.Select(x => new ClienteResponseDto
+            {
+                Id = x.Id,
+                Nome = x.Nome,
+                Email = x.Email,
+                Telefone = x.Telefone,
+                Endereco = x.Endereco
+            });
         }
 
-        public Task DeleteAsync(Cliente cliente)
+        public async Task<ClienteResponseDto?> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            var cliente = await _repository.GetByIdAsync(id);
+            if (cliente == null) return null;
+
+            return new ClienteResponseDto
+            {
+                Id = cliente.Id,
+                Nome = cliente.Nome,
+                Email = cliente.Email,
+                Telefone = cliente.Telefone,
+                Endereco = cliente.Endereco
+            };
         }
 
-        public Task<IEnumerable<Cliente>> GetAllAsync()
+        public async Task<ClienteResponseDto> CreateAsync(ClienteRequestDto dto)
         {
-            throw new NotImplementedException();
+            var cliente = new Cliente
+            {
+                Nome = dto.Nome,
+                Email = dto.Email,
+                Telefone = dto.Telefone,
+                Endereco = dto.Endereco
+            };
+            await _repository.CreateAsync(cliente);
+
+           return new ClienteResponseDto
+            {
+                Id = cliente.Id,
+                Nome = cliente.Nome,
+                Email = cliente.Email,
+                Telefone = cliente.Telefone,
+                Endereco = cliente.Endereco
+            };
         }
 
-        public Task<Cliente?> GetByIdAsync(int id)
+        public async Task<ClienteResponseDto> UpdateAsync(int id, ClienteRequestDto dto)
         {
-            throw new NotImplementedException();
+            var cliente = await _repository.GetByIdAsync(id);
+            if (cliente == null) return null;
+
+            cliente.Nome = dto.Nome;
+            cliente.Email = dto.Email;
+            cliente.Telefone = dto.Telefone;
+            cliente.Endereco = dto.Endereco;
+
+            await _repository.UpdateAsync(cliente);
+
+            return new ClienteResponseDto
+            {
+                Id = cliente.Id,
+                Nome = cliente.Nome,
+                Email = cliente.Email,
+                Telefone = cliente.Telefone,
+                Endereco = cliente.Endereco
+            };
         }
 
-        public Task UpdateAsync(Cliente cliente)
+        public async Task<bool> DeleteAsync(int id)
         {
-            throw new NotImplementedException();
+            var cliente = _repository.GetByIdAsync(id);
+            if (cliente == null) return false;
+
+            await _repository.DeleteAsync(id);
+            return true;
         }
     }
 }

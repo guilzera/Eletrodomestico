@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Dev\\Eletro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\controllers\\eletrodomesticocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\controllers\\eletrodomesticocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\migrations\\20250908190706_createddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\migrations\\20250908190706_createddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\repositories\\implementations\\eletrodomesticorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\repositories\\implementations\\eletrodomesticorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\services\\implementations\\eletrodomesticoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\services\\implementations\\eletrodomesticoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\services\\implementations\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\services\\implementations\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,66 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20250908190706_CreatedDto.cs",
-              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\Migrations\\20250908190706_CreatedDto.cs",
-              "RelativeDocumentMoniker": "Eletro\\Migrations\\20250908190706_CreatedDto.cs",
-              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\Migrations\\20250908190706_CreatedDto.cs",
-              "RelativeToolTip": "Eletro\\Migrations\\20250908190706_CreatedDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:07:07.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\Program.cs",
               "RelativeDocumentMoniker": "Eletro\\Program.cs",
               "ToolTip": "C:\\Dev\\Eletro\\Eletro\\Program.cs",
               "RelativeToolTip": "Eletro\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T17:18:33.622Z",
+              "WhenOpened": "2025-09-09T12:28:50.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "Eletro\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "Eletro\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "EletrodomesticoController.cs",
+              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\Controllers\\EletrodomesticoController.cs",
+              "RelativeDocumentMoniker": "Eletro\\Controllers\\EletrodomesticoController.cs",
+              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\Controllers\\EletrodomesticoController.cs",
+              "RelativeToolTip": "Eletro\\Controllers\\EletrodomesticoController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T17:04:43.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IClienteService.cs",
-              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\Services\\IClienteService.cs",
-              "RelativeDocumentMoniker": "Eletro\\Services\\IClienteService.cs",
-              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\Services\\IClienteService.cs",
-              "RelativeToolTip": "Eletro\\Services\\IClienteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAwAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:55:17.804Z",
+              "WhenOpened": "2025-09-09T12:23:23.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "EletrodomesticoRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\Repositories\\Implementations\\EletrodomesticoRepository.cs",
+              "RelativeDocumentMoniker": "Eletro\\Repositories\\Implementations\\EletrodomesticoRepository.cs",
+              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\Repositories\\Implementations\\EletrodomesticoRepository.cs",
+              "RelativeToolTip": "Eletro\\Repositories\\Implementations\\EletrodomesticoRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:22:06.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\Services\\IClienteService.cs",
+              "RelativeDocumentMoniker": "Eletro\\Services\\IClienteService.cs",
+              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\Services\\IClienteService.cs",
+              "RelativeToolTip": "Eletro\\Services\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:11:35.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ClienteService.cs",
               "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\Services\\Implementations\\ClienteService.cs",
               "RelativeDocumentMoniker": "Eletro\\Services\\Implementations\\ClienteService.cs",
               "ToolTip": "C:\\Dev\\Eletro\\Eletro\\Services\\Implementations\\ClienteService.cs",
               "RelativeToolTip": "Eletro\\Services\\Implementations\\ClienteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:50:23.497Z",
+              "WhenOpened": "2025-09-09T12:09:04.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EletrodomesticoService.cs",
+              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\Services\\Implementations\\EletrodomesticoService.cs",
+              "RelativeDocumentMoniker": "Eletro\\Services\\Implementations\\EletrodomesticoService.cs",
+              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\Services\\Implementations\\EletrodomesticoService.cs",
+              "RelativeToolTip": "Eletro\\Services\\Implementations\\EletrodomesticoService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv2sAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:08:55.309Z",
               "EditorCaption": ""
             }
           ]

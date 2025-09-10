@@ -26,19 +26,4 @@ jobs:
       run: dotnet build --no-restore --configuration Release
 
     - name: Rodar testes
-      run: dotnet test --no-build --configuration Release --verbosity normal
-
-    - name: Instalar dotnet-ef
-      run: dotnet tool install --global dotnet-ef
-
-    - name: Adicionar dotnet-ef ao PATH
-      run: echo "$HOME/.dotnet/tools" >> $GITHUB_PATH
-
-    - name: Validar migrations
-      run: dotnet ef migrations script --project Eletro --output migration.sql
-
-    - name: Salvar migration.sql como artefato
-      uses: actions/upload-artifact@v3
-      with:
-        name: migration-sql
-        path: migration.sql
+      run: dotnet test --no-build --configuration Release --verbosity normal    

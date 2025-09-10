@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": ".github\\workflows\\dotnet-ci.yml",
               "ToolTip": "C:\\Dev\\Eletro\\.github\\workflows\\dotnet-ci.yml",
               "RelativeToolTip": ".github\\workflows\\dotnet-ci.yml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-09-10T13:58:22.706Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Eletro.Tests\\Services\\ClienteServiceTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:01:06.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T13:01:06.627Z"
             },
             {
               "$type": "Bookmark",

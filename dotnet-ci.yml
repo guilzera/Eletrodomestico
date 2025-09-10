@@ -1,0 +1,32 @@
+name: .NET CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout código
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 9.0.x
+
+    - name: Restaurar dependências
+      run: dotnet restore
+
+    - name: Buildar solução
+      run: dotnet build --no-restore --configuration Release
+
+    - name: Rodar testes
+      run: dotnet test --no-build --configuration Release --verbosity normal
+
+    - name: Validar migrations
+      run: dotnet ef migrations script --project Eletro --output migration.sql

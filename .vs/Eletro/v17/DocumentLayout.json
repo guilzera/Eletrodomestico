@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Dev\\Eletro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A25ABAB5-C84E-4E2D-AACE-E12C07C75332}|workflows{A25ABAB5-C84E-4E2D-AACE-E12C07C75332}|C:\\Dev\\Eletro\\.github\\workflows\\dotnet-ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A25ABAB5-C84E-4E2D-AACE-E12C07C75332}|workflows{A25ABAB5-C84E-4E2D-AACE-E12C07C75332}|solutionrelative:.github\\workflows\\dotnet-ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F99931F5-1A62-473F-AC4E-C979993FBE05}|Eletro.Tests\\Eletro.Tests.csproj|c:\\dev\\eletro\\eletro.tests\\services\\eletrodomesticoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99931F5-1A62-473F-AC4E-C979993FBE05}|Eletro.Tests\\Eletro.Tests.csproj|solutionrelative:eletro.tests\\services\\eletrodomesticoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|c:\\dev\\eletro\\eletro\\dtos\\request\\eletrodomesticorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD64C315-6323-4F19-8521-A8D27042F21F}|Eletro\\Eletro.csproj|solutionrelative:eletro\\dtos\\request\\eletrodomesticorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F99931F5-1A62-473F-AC4E-C979993FBE05}|Eletro.Tests\\Eletro.Tests.csproj|c:\\dev\\eletro\\eletro.tests\\services\\clienteservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,36 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 386,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dotnet-ci.yml",
-              "DocumentMoniker": "C:\\Dev\\Eletro\\.github\\workflows\\dotnet-ci.yml",
-              "RelativeDocumentMoniker": ".github\\workflows\\dotnet-ci.yml",
-              "ToolTip": "C:\\Dev\\Eletro\\.github\\workflows\\dotnet-ci.yml",
-              "RelativeToolTip": ".github\\workflows\\dotnet-ci.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-10T13:58:22.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ClienteServiceTests.cs",
               "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro.Tests\\Services\\ClienteServiceTests.cs",
               "RelativeDocumentMoniker": "Eletro.Tests\\Services\\ClienteServiceTests.cs",
               "ToolTip": "C:\\Dev\\Eletro\\Eletro.Tests\\Services\\ClienteServiceTests.cs",
               "RelativeToolTip": "Eletro.Tests\\Services\\ClienteServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:01:06.627Z"
+              "WhenOpened": "2025-09-11T19:38:01.916Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EletrodomesticoServiceTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro.Tests\\Services\\EletrodomesticoServiceTests.cs",
+              "RelativeDocumentMoniker": "Eletro.Tests\\Services\\EletrodomesticoServiceTests.cs",
+              "ToolTip": "C:\\Dev\\Eletro\\Eletro.Tests\\Services\\EletrodomesticoServiceTests.cs",
+              "RelativeToolTip": "Eletro.Tests\\Services\\EletrodomesticoServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T19:34:30.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EletrodomesticoRequestDto.cs",
+              "DocumentMoniker": "C:\\Dev\\Eletro\\Eletro\\DTOs\\Request\\EletrodomesticoRequestDto.cs",
+              "RelativeDocumentMoniker": "Eletro\\DTOs\\Request\\EletrodomesticoRequestDto.cs",
+              "ToolTip": "C:\\Dev\\Eletro\\Eletro\\DTOs\\Request\\EletrodomesticoRequestDto.cs",
+              "RelativeToolTip": "Eletro\\DTOs\\Request\\EletrodomesticoRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T19:36:18.463Z",
+              "EditorCaption": ""
             }
           ]
         }

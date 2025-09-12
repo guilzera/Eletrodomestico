@@ -9,11 +9,11 @@ namespace Eletro.DTOs.Request
         public string Nome { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "O email é obrigatório.")]
-        [EmailAddress]
+        [EmailAddress(ErrorMessage = "Digite um email válido")]
         public string Email { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "O telefone é obrigatório.")]
-        [Phone]
+        [Phone(ErrorMessage = "Digite um número válido")]
         public string Telefone { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "O endereço é obrigatório.")]

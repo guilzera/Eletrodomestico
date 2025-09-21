@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eletro.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce1eea5b1cac048331131448248a2b6a384a1b75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5dac9aa5606072b0624e8a455b6610c59424911")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eletro.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eletro.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

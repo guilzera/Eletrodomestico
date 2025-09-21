@@ -25,7 +25,7 @@ namespace Eletro.Tests.Services
 
             Assert.NotNull(result);
             Assert.Equal("Geladeira", result.Nome);
-            Assert.Equal("Brastemp", result.Marca);
+            Assert.Equal("Electrolux", result.Marca);
 
         }
     }

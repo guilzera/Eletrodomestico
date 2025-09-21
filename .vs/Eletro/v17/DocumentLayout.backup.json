@@ -34,8 +34,7 @@
               "RelativeToolTip": "Eletro.Tests\\Services\\ClienteServiceTests.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAIwCMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T19:38:01.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T19:38:01.916Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Eletro.Tests\\Services\\EletrodomesticoServiceTests.cs",
               "ToolTip": "C:\\Dev\\Eletro\\Eletro.Tests\\Services\\EletrodomesticoServiceTests.cs",
               "RelativeToolTip": "Eletro.Tests\\Services\\EletrodomesticoServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T19:34:30.199Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Eletro\\DTOs\\Request\\EletrodomesticoRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T19:36:18.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T19:36:18.463Z"
             }
           ]
         }

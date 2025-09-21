@@ -16,7 +16,7 @@ namespace Eletro.Tests.Services
             var dto = new EletrodomesticoRequestDto
             {
                 Nome = "Geladeira",
-                Marca = "Brastemp",
+                Marca = "Eletrolux",
                 Modelo = "",
                 NumeroSerie = "",
             };

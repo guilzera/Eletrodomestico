@@ -16,7 +16,7 @@ namespace Eletro.Tests.Services
             var dto = new EletrodomesticoRequestDto
             {
                 Nome = "Geladeira",
-                Marca = "Brastemp",
+                Marca = "Electrolux",
                 Modelo = "",
                 NumeroSerie = "",
             };
@@ -25,7 +25,7 @@ namespace Eletro.Tests.Services
 
             Assert.NotNull(result);
             Assert.Equal("Geladeira", result.Nome);
-            Assert.Equal("Brastemp", result.Marca);
+            Assert.Equal("Electrolux", result.Marca);
 
         }
     }
